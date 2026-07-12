@@ -1,6 +1,6 @@
 ### Alexander
 
-Partner at [Keen Venture Partners](https://www.keenventurepartners.com/), backing early-stage AI-native software for European SMEs. Former operator (AI Startup, JD.com, IBM), recovering McKinsey alumnus, Schwarzman Scholar who still can't read the Tsinghua diploma without help.
+Partner at **[Keen Venture Partners](https://www.keenventurepartners.com/)**, backing early-stage AI-native software for European SMEs. Former operator (AI Startup, JD.com, IBM), recovering McKinsey alumnus, Schwarzman Scholar who can read the Tsinghua diploma without help.
 
 I also write **[Repository Radar](https://repositoryradar.dev)**, a newsletter that curates and tracks open-source projects. Bi-weekly, 240-odd repos deep, and yes I do read the changelogs so you don't have to.
 
